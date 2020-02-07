@@ -1,0 +1,1 @@
+We will perform binary search and if the mid element is larger than the others it might be a peak element else there is a chance to have peak elemets in other half
