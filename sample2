@@ -1,0 +1,5 @@
+Firstly we will verify if the array is rotated 
+If it is rotated we will first look for the pivot element
+Now we perform binary search in one of the two sub arrays and retreive the elemnt less than mid 
+now we perform binary search in other sub part as well and compare it to th existing minimum element
+If we find then minimum is updated else remains the same
